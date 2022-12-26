@@ -12,7 +12,7 @@ cd Net-Recon
 pip install -r requirements.txt
 ```
 ```
-python3 Net_recon.py
+python3 Net_Recon.py
 ```
 
 
