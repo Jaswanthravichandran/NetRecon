@@ -2,16 +2,15 @@
 
 #### Installation:
 
+```git clone https://github.com/Jaswanthravichandran/NetRecon.git
 ```
-git clone https://github.com/Jaswanthravichandran/NetRecon.git
-
-cd Net-Recon
-
-pip install -r requirements.txt
- 
-python3 Net_recon.py
-
+```cd Net-Recon
 ```
+```pip install -r requirements.txt
+```
+```python3 Net_recon.py
+```
+
 
 
 ##### How It Looks:
